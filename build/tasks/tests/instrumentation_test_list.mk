@@ -35,7 +35,6 @@ instrumentation_tests := \
     MtpTests \
     DocumentsUITests \
     ShellTests \
-    SystemUITests \
     TestablesTests \
     FrameworksWifiApiTests \
     FrameworksWifiNonUpdatableApiTests \
